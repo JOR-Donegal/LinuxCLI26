@@ -15,8 +15,8 @@ theme:
   palette:
       # Light Mode
     - scheme: default
-      primary: green
-      accent: red
+      primary: deep orange
+      accent: green
 
 markdown_extensions:
   - pymdownx.highlight:

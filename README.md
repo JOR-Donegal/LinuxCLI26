@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# Linux CLI
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+16SEP26
+Moved content from old notes, can be used for teaching but needs ++ work!
